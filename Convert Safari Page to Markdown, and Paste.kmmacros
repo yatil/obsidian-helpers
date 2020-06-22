@@ -330,7 +330,7 @@
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
-						<string>http://heckyesmarkdown.com/go/?u=%Variable%URL%</string>
+						<string>http://heckyesmarkdown.com/go/?read=1&amp;u=%Variable%URL%</string>
 						<key>Variable</key>
 						<string>TheURL</string>
 					</dict>
@@ -350,7 +350,7 @@
 				<key>CreationDate</key>
 				<real>614435661.11375999</real>
 				<key>ModificationDate</key>
-				<real>614450486.93734205</real>
+				<real>614512857.895625</real>
 				<key>Name</key>
 				<string>Convert Safari Page to Markdown, and Paste</string>
 				<key>Triggers</key>
